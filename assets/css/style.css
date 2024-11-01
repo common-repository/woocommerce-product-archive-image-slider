@@ -1,0 +1,60 @@
+/**
+ * Styles
+ */
+
+.prev-button, .next-button {
+    padding: 5px 10px;
+}
+
+ul.products li {
+
+}
+
+ul.products li img {
+    float: left;
+}
+
+ul.products li.product .price {
+    margin-bottom: 0 !important;
+}
+
+.navi-scroll-direction {
+    font-size: 10px;
+}
+
+.products h3 {
+    clear: both;
+}
+
+.products ul {
+    margin: 0;
+}
+
+li.product {
+    list-style: none;
+    overflow: hidden;
+}
+
+.product-inner-div {
+    width: 10000px;
+}
+
+ul.products li.product h3 {
+    text-align: left;
+}
+
+.navi-buttons {
+    text-align: left;
+}
+
+.product-inner-div h3 {
+    display: none;
+}
+
+.woocommerce .products .star-rating, .woocommerce-page .products .star-rating {
+    text-align: left;
+}
+
+ul.products li.product .price {
+    text-align: left;
+}
